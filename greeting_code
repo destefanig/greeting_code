@@ -1,0 +1,7 @@
+# greeting_code
+print ("Hello! Here we sell all the finest foods such as chicken, pork, wheat, eggs, and steak")
+print ("The cost of one chicken is 3 wheat")
+print ("The cost for one piece of pork is 7 sugar cane")
+print ("the cost of an egg is 2 seeds")
+print ("the cost of one wheat is 1 seed")
+print ("the cost of one steak is 2 chicken")

@@ -1,4 +1,8 @@
-# greeting_code
+-- this codes purpose is to set the value for 1 food--
+-- for example for 1 seed yo receive 1 wheat--
+
+
+
 print ("Hello! Here we sell all the finest foods such as chicken, pork, wheat, eggs, and steak")
 print ("The cost of one chicken is 3 wheat")
 print ("The cost for one piece of pork is 7 sugar cane")
